@@ -1,6 +1,5 @@
 # === IDE and Editor ===
 .vs/
-.vscode/settings.json
 .idea/
 *.swp
 *.swo
@@ -105,8 +104,6 @@ node_modules/
 *.7z
 
 # === Secrets and Environment ===
-.env
-.env.local
 .env.*.local
 *.pem
 *.key
@@ -139,3 +136,4 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 *.lnk
+config.bat
